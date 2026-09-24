@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "fastapi[standard]>=0.141.1",
+    "opencv-python>=5.0.0.93",
     "pooch>=1.9.0",
 ]
 
